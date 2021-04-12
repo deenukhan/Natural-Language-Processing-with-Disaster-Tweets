@@ -1,4 +1,4 @@
-<a href = https://www.firsttimersonly.com" target="_blank">First Timers Only</a>
+
 # Natural-Language-Processing-with-Disaster-Tweets
 Predict which Tweets are about real disasters and which ones are not
 
